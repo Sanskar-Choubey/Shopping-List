@@ -16,7 +16,6 @@ h1,p{
 body{
     background: #BDF1F6;
     height: 100vh;
-    margin: 0 130px;
     border: 1px outset #0245A3;
     box-shadow: 5px 5px 10px rgba(174, 174, 230, 0.76);
 }
